@@ -197,7 +197,7 @@ The `AppContext` provides global state management for the application, including
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/elyse502/deepseek-clone/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/dhlananhh/deepseek-clone/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
