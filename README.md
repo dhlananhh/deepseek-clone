@@ -4,7 +4,7 @@ DeepSeek Clone is a web application designed to provide an interactive chat inte
 
 ## LIVE - DEMO 🌐
 
-Visit the 👉 [LINK 🔗](https://deepseek-clone-gold.vercel.app)
+Visit the 👉 [LINK 🔗](https://deepseek-clone-jade.vercel.app/)
 
 ## Features
 
@@ -57,7 +57,7 @@ deepseek-clone/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/elyse502/deepseek-clone.git
+   git clone https://github.com/dhlananhh/deepseek-clone.git
    cd deepseek-clone
    ```
 
